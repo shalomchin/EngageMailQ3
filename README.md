@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a non-working prototype of Question 3 for EngageRocket Email. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For the answer, please refer to the folder named "answer". The folder contains a snapshot of the rails routes and a pdf of the Model/ Relationship with notes. 
